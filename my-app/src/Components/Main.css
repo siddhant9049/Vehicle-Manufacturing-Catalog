@@ -1,0 +1,42 @@
+table{
+    border: 1px solid black;
+    /* width: 100vw; */
+}
+
+th,td{
+    padding: 10px;
+    border: 1px solid black;
+    /* width: 100%; */
+}
+
+th{
+    background-color: rgb(57, 32, 99);
+    color: white;
+    /* width: 300px; */
+    width: 600px;
+}
+
+
+.popup{
+    margin-top: -260%;
+    background-color: rgb(55, 161, 202);
+    width: 300px;
+    margin-left: 40%;
+    border-radius: 20px ;
+    height: 250px;
+    position: fixed;
+}
+button{
+    background-color: rgb(84, 84, 224);
+    border: 0px solid ;
+    border-radius: 10px;
+    height: 30px;
+    width: 250px;
+    font-size: 20px;
+    color:white;
+    
+}
+
+button:hover{
+    background-color: rgb(54, 54, 151);
+}
